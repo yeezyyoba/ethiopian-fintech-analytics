@@ -108,7 +108,7 @@ ethiopian-fintech-analytics/
 ## Weekly Progress
 
 - [x] Week 1 — Project setup, repo structure, data acquisition
-- [ ] Week 2 — Exploratory Data Analysis
+- [x] Week 2 — Exploratory Data Analysis
 - [ ] Week 3 — Data cleaning & SQL pipeline
 - [ ] Week 4 — Feature engineering
 - [ ] Week 5 — Model training & comparison
