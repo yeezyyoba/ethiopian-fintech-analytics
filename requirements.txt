@@ -35,3 +35,5 @@ ipykernel==6.29.4
 python-dotenv==1.0.1
 tqdm==4.66.4
 joblib==1.4.2
+
+fastparquet==2026.3.0
