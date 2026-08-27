@@ -41,3 +41,5 @@ models/
 
 # Reports (commit PDFs manually when ready)
 reports/*.pdf
+.agents/skills/developing-with-streamlit
+.claude/skills/developing-with-streamlit
