@@ -35,9 +35,7 @@ Thumbs.db
 
 # Large model files
 *.pkl
-*.joblib
 *.h5
-models/
 
 # Reports (commit PDFs manually when ready)
 reports/*.pdf
